@@ -11,7 +11,6 @@ namespace ASCIIDecoder
             int.TryParse(Console.ReadLine(), out a);
             char b = (char)a;
             Console.WriteLine("Искомый символ: " + b);
-            
         }
     }
 }
